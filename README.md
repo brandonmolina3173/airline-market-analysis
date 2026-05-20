@@ -1,2 +1,1 @@
-# sol-studios-website
-Portfolio and business website built to showcase projects in web development, business analytics, branding, and digital strategy.
+Data analysis project examining airline pricing, passenger demand, and market trends using Python and BTS airline datasets.
